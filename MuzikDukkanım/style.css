@@ -1,0 +1,23 @@
+.ortala{
+    text-align: center;
+}
+.color-red{
+    color: red;
+}
+.li-type{
+    list-style-type:none;
+    display: inline;
+    margin-right:10px;
+}
+.li-ortala{
+    list-style-position: inside;
+}
+.color-purple{
+    color: purple;
+}
+.color-yellow{
+    color: rgb(212, 153, 6);
+}
+.text-bold{
+    font-weight: bold;
+}
